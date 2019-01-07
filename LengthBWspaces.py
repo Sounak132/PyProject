@@ -17,6 +17,3 @@ print("Minimum distance between two spaces is ",array[1]-array[0]-1,"\n")
 print("Maximum distance between two spaces is ",array[b-1]-array[0]-1,"\n")
 
 print("Time taken by our program to complete is %s seconds"%(time.time() - startime))  
-
-
-
