@@ -1,6 +1,4 @@
 import time
-#import sys
-#from termcolor import colored
 
 
 lst = []
